@@ -107,6 +107,7 @@
     "rimraf": "^2.5.4",
     "sass-loader": "^4.0.0",
     "style-loader": "^0.13.1",
+    "svg-inline-loader": "^0.7.1",
     "url-loader": "^0.5.6",
     "webpack": "^1.12.14",
     "yargs": "^6.3.0"
@@ -142,6 +143,7 @@
     "sinon": "^1.17.5",
     "sinon-chai": "^2.8.0",
     "webpack-dev-middleware": "^1.6.1",
-    "webpack-hot-middleware": "^2.12.2"
+    "webpack-hot-middleware": "^2.12.2",
+    "sema-ui-components": "0.5.5"
   }
 }
